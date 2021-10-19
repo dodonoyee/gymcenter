@@ -1,103 +1,97 @@
-<!-- Footer Section Begin -->
-<section class="footer-section">
+<footer class="site-footer">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4">
-                <div class="fs-about">
-                    <div class="fa-logo">
-                        <a href="#"><img src="img/logo.png" alt=""></a>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore dolore magna aliqua endisse ultrices gravida lorem.</p>
-                    <div class="fa-social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa  fa-envelope-o"></i></a>
+            <div class="col-lg-4 mb-5 mb-lg-0">
+                <div class="row mb-5">
+                    <div class="col-12">
+                        <h3 class="footer-heading mb-4">About Us</h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="fs-widget">
-                    <h4>Useful links</h4>
-                    <ul>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Classes</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="fs-widget">
-                    <h4>Support</h4>
-                    <ul>
-                        <li><a href="#">Login</a></li>
-                        <li><a href="#">My account</a></li>
-                        <li><a href="#">Subscribe</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="fs-widget">
-                    <h4>Tips & Guides</h4>
-                    <div class="fw-recent">
-                        <h6><a href="#">Physical fitness may help prevent depression, anxiety</a></h6>
-                        <ul>
-                            <li>3 min read</li>
-                            <li>20 Comment</li>
-                        </ul>
-                    </div>
-                    <div class="fw-recent">
-                        <h6><a href="#">Fitness: The best exercise to lose belly fat and tone up...</a></h6>
-                        <ul>
-                            <li>3 min read</li>
-                            <li>20 Comment</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <div class="copyright-text">
-                    <p>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        Copyright &copy;<script>
-                            document.write(new Date().getFullYear());
-                        </script> All rights reserved | This template is made by <a href="https://colorlib.com" target="_blank">DodonOyee</a>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Footer Section End -->
 
-<!-- Search model Begin -->
-<div class="search-model">
-    <div class="h-100 d-flex align-items-center justify-content-center">
-        <div class="search-close-switch">+</div>
-        <form class="search-model-form">
-            <input type="text" id="search-input" placeholder="Search here.....">
-        </form>
+
+
+            </div>
+            <div class="col-lg-3 ml-auto">
+
+                <div class="row mb-5">
+                    <div class="col-md-12">
+                        <h3 class="footer-heading mb-4">Navigation</h3>
+                    </div>
+                    <div class="col-md-6 col-lg-6">
+                        <ul class="list-unstyled">
+                            <li><a href="#home-section" class="smoothscroll">Home</a></li>
+                            <li><a href="#what-we-do-section" class="smoothscroll">What We Do</a></li>
+                            <li><a href="#about-section" class="smoothscroll">About Us</a></li>
+                            <li><a href="#team-section" class="smoothscroll">Team</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="col-lg-4 mb-5 mb-lg-0">
+
+                <div class="mb-5">
+                    <h3 class="footer-heading mb-2">Subscribe Newsletter</h3>
+                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+
+                    <form method="post" class="form-subscribe">
+                        <div class="form-group mb-3">
+                            <input type="text" class="form-control border-white text-white bg-transparent" placeholder="Enter full name" aria-label="Enter Email" aria-describedby="button-addon2">
+                        </div>
+                        <div class="form-group mb-3">
+                            <input type="text" class="form-control border-white text-white bg-transparent" placeholder="Enter email" aria-label="Enter Email" aria-describedby="button-addon2">
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary px-5" type="submit">Subscribe</button>
+                        </div>
+                    </form>
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+            <div class="col-md-12">
+                <div class="mb-4">
+                    <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                    <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                    <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                    <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                </div>
+                <p>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    <!--Copyright &copy;<script>
+                        document.write(new Date().getFullYear()); -->
+                    </script> 2021 © by Rohmadhona Wahu Eko Saputro. All Rights Reserved.
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                </p>
+            </div>
+
+        </div>
     </div>
+</footer>
 </div>
-<!-- Search model end -->
 
-<!-- Js Plugins -->
 <script src="./assets/js/jquery-3.3.1.min.js"></script>
+<script src="./assets/js/popper.min.js"></script>
 <script src="./assets/js/bootstrap.min.js"></script>
-<script src="./assets/js/jquery.magnific-popup.min.js"></script>
-<script src="./assets/js/masonry.pkgd.min.js"></script>
-<script src="./assets/js/jquery.barfiller.js"></script>
-<script src="./assets/js/jquery.slicknav.js"></script>
 <script src="./assets/js/owl.carousel.min.js"></script>
-<script src="./assets/js/main.js"></script>
+<script src="./assets/js/aos.js"></script>
+<script src="./assets/js/jquery.sticky.js"></script>
+<script src="./assets/js/stickyfill.min.js"></script>
+<script src="./assets/js/jquery.easing.1.3.js"></script>
+<script src="./assets/js/isotope.pkgd.min.js"></script>
 
+<script src="./assets/js/jquery.fancybox.min.js"></script>
+<script src="./assets/js/main.js"></script>
 
 
 </body>
